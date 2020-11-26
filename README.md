@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello, it's ~~me~~ Mix! :raising_hand_man:
 
 <!--
 **helloitsmix/helloitsmix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
