@@ -1,16 +1,20 @@
-## Hello, it's ~~me~~ Mix! :raising_hand_man:
+## Hello! it's ~~me~~ Mix! 👋
+#### I'm Lorenzo, a 23 years old UX Specialist & Developer from Italy.
 
-<!--
-**helloitsmix/helloitsmix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧭 Founder of [@carafe](./)
 
-Here are some ideas to get you started:
+- 👥 Core member at [@codinghomie](./)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 👨‍💻 React-Native, React, JavaScript
+- ⚙️ Git, Node.js
+- 💻 HTML5, Bootstrap, jQuery
+- 🎨 SASS, CSS
+- 💾 MySQL, PHP
+- 📼 Adobe Creative Cloud
+
+## Contact
+- [lorenzovezzaro@yahoo.it](mailto:lorenzovezzaro@yahoo.it)
+- [@lorenzo-vezzaro](https://www.linkedin.com/in/lorenzo-vezzaro) on LinkedIn
+- [@helloitsmix](https://instagram.com/helloitsmix) on Instagram
+- [Vezzi#8575](./) on Discord
