@@ -11,7 +11,7 @@
 - 💻 HTML5, Bootstrap, jQuery
 - 🎨 SASS, CSS
 - 💾 MySQL, PHP
-- 📼 Adobe Creative Cloud
+- 🎬 Adobe Creative Cloud
 
 ## Contact
 - [lorenzovezzaro@yahoo.it](mailto:lorenzovezzaro@yahoo.it)
