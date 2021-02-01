@@ -4,9 +4,9 @@
 #### I'm Lorenzo, a 23 years old UX Specialist & Developer from Italy.
 
 
-- 🧭 Founder of [@carafe](./)
+- 🧭 Founder of [@carafe](https://bit.ly/carafe-app)
 
-- 👥 Core member at [@codinghomie](./)
+- 👥 Core member at [@codinghomie](https://bit.ly/codinghomie)
 
 ## Skills
 - 👨‍💻 React-Native, React, JavaScript
