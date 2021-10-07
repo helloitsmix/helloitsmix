@@ -1,4 +1,4 @@
-![](./src/img/bg.jpg)
+![bg](./src/img/bg.jpg)
 
 ## Hello, it's ~~me~~ Mix! 👋
 #### I'm Lorenzo, a 23 years old UX Specialist & Developer from Italy.
