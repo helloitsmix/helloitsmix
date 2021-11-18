@@ -9,6 +9,7 @@
 - 👥 Core member at [@codinghomie](https://bit.ly/codinghomie)
 
 ## Skills
+- 🎢 UX & UI
 - 👨‍💻 React-Native, React, JavaScript
 - ⚙️ Git, Node.js
 - 💻 HTML5, Bootstrap, jQuery
