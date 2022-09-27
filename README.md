@@ -20,5 +20,4 @@
 ## Contact
 - [vezzarolorenzo@gmail.com](mailto:vezzarolorenzo@gmail.com)
 - [@lorenzo-vezzaro](https://www.linkedin.com/in/lorenzo-vezzaro) on LinkedIn
-- [@helloitsmix](https://instagram.com/helloitsmix) on Instagram
 - [Vezzi#8575](./) on Discord
