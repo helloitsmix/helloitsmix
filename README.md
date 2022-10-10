@@ -5,8 +5,7 @@
 
 
 - 🧭 Founder of [@carafe](https://bit.ly/carafe-app)
-
-- 👥 Core member at [@codinghomie](https://bit.ly/codinghomie)
+- 👥 Visit [lorenzovezzaro.it](https://lorenzovezzaro.it)
 
 ## Skills
 - 🎢 UX & UI
@@ -14,10 +13,9 @@
 - ⚙️ Git, Node.js
 - 💻 HTML5, Bootstrap, jQuery
 - 🎨 SASS, CSS
-- 💾 MySQL, PHP
-- 🎬 Adobe Creative Cloud
+- 💾 SQL, PHP
+- 🎬 Adobe CC
 
 ## Contact
 - [vezzarolorenzo@gmail.com](mailto:vezzarolorenzo@gmail.com)
 - [@lorenzo-vezzaro](https://www.linkedin.com/in/lorenzo-vezzaro) on LinkedIn
-- [Vezzi#8575](./) on Discord
