@@ -9,12 +9,13 @@
 
 ## Skills
 - 🎢 UX & UI
-- 👨‍💻 React-Native, React, JavaScript
+- 👨‍💻 React, JavaScript
+- 📱 React-Native
 - ⚙️ Git, Node.js
-- 💻 HTML5, Bootstrap, jQuery
-- 🎨 SASS, CSS
-- 💾 SQL, PHP
-- 🎬 Adobe CC
+- 💻 HTML5, Bootstrap, SCSS
+- 🎨 Figma, Adobe XD
+- 💾 SQL, Postgres, PHP
+- 🎬 Adobe CC Suite
 
 ## Contact
 - [vezzarolorenzo@gmail.com](mailto:vezzarolorenzo@gmail.com)
