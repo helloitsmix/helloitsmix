@@ -1,7 +1,7 @@
 ![](./src/img/bg.jpg)
 
 ## Hello, it's ~~me~~ Mix! 👋🏻
-#### I'm Lorenzo, a 26 years old UX Specialist & Developer from Italy.
+#### I'm Lorenzo, a 27 years old UX Specialist & Developer from Italy.
 
 
 - 🧭 Founder of [@carafe](https://bit.ly/carafe-app)
